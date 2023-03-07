@@ -37,5 +37,7 @@ public class Operadores {
            System.out.println("uma das variáveis é falsa!");
        }
 
+
+
    }
 }
